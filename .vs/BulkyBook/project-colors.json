@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e6a00a4f-8b4f-4ebe-9e60-c72d5875b060": {
+      "ProjectGuid": "e6a00a4f-8b4f-4ebe-9e60-c72d5875b060",
+      "DisplayName": "BulkyBook.Web",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
